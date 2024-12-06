@@ -65,11 +65,11 @@ A high-speed chase mode for FiveM servers, blending intense races with tactical 
 
 ---
 
-## 🎨 Gaming Icons & Tools
+## 🎨 Gaming & Tools
 
 <div align="center">
+  <img src="https://img.icons8.com/nolan/64/code.png" alt="Coding" height="64">
   <img src="https://img.icons8.com/nolan/64/red-dead-redemption.png" alt="RedM" height="64">
-  <img src="https://img.icons8.com/nolan/64/gta.png" alt="FiveM" height="64">
   <img src="https://img.icons8.com/nolan/64/code.png" alt="Coding" height="64">
   <img src="https://img.icons8.com/nolan/64/laptop.png" alt="Hacking" height="64">
 </div>
