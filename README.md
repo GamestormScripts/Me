@@ -60,8 +60,7 @@ A high-speed chase mode for FiveM servers, blending intense races with tactical 
 
 - **Website**: [GamestormZone](https://gamestormzone.github.io)
 - **GitHub**: [GamestormScripts](https://github.com/GamestormScripts)
-- **Twitter**: [@GamestormScripts](https://twitter.com/GamestormScripts)
-- **Discord**: Gamestorm#1234
+- **Discord**: Marci_Jackets#2583
 
 ---
 
